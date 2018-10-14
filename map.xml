@@ -1,0 +1,1699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.3 9da5e7ae">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2018-06-11T12:31:02Z"/>
+
+  <bounds minlat="41.3243900" minlon="19.8188600" maxlat="41.3259900" maxlon="19.8197800"/>
+
+  <node id="15460011" lat="41.3247637" lon="19.8180756" version="3" timestamp="2017-01-29T16:31:48Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="33359057" lat="41.3259852" lon="19.8192814" version="7" timestamp="2018-01-15T12:13:52Z" changeset="55460442" uid="712336" user="DenisJu">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="supervised" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="429650397" lat="41.3260693" lon="19.8198781" version="9" timestamp="2016-12-10T14:14:10Z" changeset="44304104" uid="712336" user="DenisJu"/>
+  <node id="429652032" lat="41.3256238" lon="19.8175675" version="10" timestamp="2017-01-29T16:31:48Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="429652060" lat="41.3248146" lon="19.8184031" version="6" timestamp="2017-01-29T16:31:48Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="429652218" lat="41.3251357" lon="19.8178483" version="3" timestamp="2017-01-29T16:31:48Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="1248716425" lat="41.3255110" lon="19.8193893" version="2" timestamp="2013-04-21T20:41:53Z" changeset="15816660" uid="560090" user="jeffthimm">
+    <tag k="amenity" v="parking"/>
+    <tag k="parking" v="surface"/>
+  </node>
+  <node id="1248716484" lat="41.3262234" lon="19.8209717" version="1" timestamp="2011-04-17T17:33:58Z" changeset="7889420" uid="393545" user="Endri"/>
+  <node id="2418944839" lat="41.3248480" lon="19.8180264" version="2" timestamp="2017-01-29T16:31:50Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="2418944840" lat="41.3250028" lon="19.8178814" version="2" timestamp="2017-01-29T16:31:50Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="2418944843" lat="41.3264896" lon="19.8188425" version="3" timestamp="2017-01-29T16:15:57Z" changeset="45624534" uid="712336" user="DenisJu"/>
+  <node id="2445916136" lat="41.3252560" lon="19.8201230" version="1" timestamp="2013-09-04T14:39:32Z" changeset="17672911" uid="1730904" user="donovaly"/>
+  <node id="2551504530" lat="41.3237968" lon="19.8175721" version="2" timestamp="2017-01-29T16:31:50Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="2551504534" lat="41.3240616" lon="19.8192582" version="2" timestamp="2017-01-29T16:31:50Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="2551504561" lat="41.3253559" lon="19.8194863" version="3" timestamp="2017-01-29T16:50:48Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="2551504563" lat="41.3254390" lon="19.8200108" version="3" timestamp="2017-01-29T16:50:48Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="2551504565" lat="41.3254682" lon="19.8188730" version="2" timestamp="2017-01-29T16:31:50Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="2551504566" lat="41.3254793" lon="19.8189444" version="2" timestamp="2017-01-29T16:31:50Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="2551504569" lat="41.3255289" lon="19.8170922" version="2" timestamp="2017-01-29T16:31:50Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="2551504570" lat="41.3255757" lon="19.8194245" version="3" timestamp="2017-01-29T16:50:48Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="2551504572" lat="41.3255844" lon="19.8194795" version="3" timestamp="2017-01-29T16:50:48Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="2551504573" lat="41.3257931" lon="19.8187829" version="2" timestamp="2017-01-29T16:31:50Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="2551504575" lat="41.3259477" lon="19.8193775" version="3" timestamp="2017-01-29T16:50:48Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="2551504577" lat="41.3260221" lon="19.8198470" version="3" timestamp="2017-01-29T16:50:48Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="2619568630" lat="41.3268186" lon="19.8186819" version="1" timestamp="2014-01-12T11:54:46Z" changeset="19950908" uid="39504" user="malenki"/>
+  <node id="4539916527" lat="41.3256063" lon="19.8168974" version="5" timestamp="2016-12-11T14:51:32Z" changeset="44324424" uid="712336" user="DenisJu"/>
+  <node id="4539989287" lat="41.3255177" lon="19.8170646" version="2" timestamp="2017-01-29T16:31:51Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4545057664" lat="41.3239029" lon="19.8183952" version="2" timestamp="2017-01-29T16:31:51Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4545057666" lat="41.3240142" lon="19.8196503" version="3" timestamp="2016-12-11T17:17:00Z" changeset="44327492" uid="712336" user="DenisJu"/>
+  <node id="4545057667" lat="41.3239963" lon="19.8195370" version="3" timestamp="2016-12-11T17:17:00Z" changeset="44327492" uid="712336" user="DenisJu"/>
+  <node id="4545057822" lat="41.3241448" lon="19.8194955" version="4" timestamp="2018-01-15T12:14:16Z" changeset="55460442" uid="712336" user="DenisJu">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="supervised" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4545057823" lat="41.3241316" lon="19.8196183" version="4" timestamp="2018-01-15T12:14:16Z" changeset="55460442" uid="712336" user="DenisJu">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="supervised" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4545057889" lat="41.3268690" lon="19.8189533" version="1" timestamp="2016-12-08T15:24:39Z" changeset="44260421" uid="712336" user="DenisJu"/>
+  <node id="4545057892" lat="41.3255094" lon="19.8191139" version="5" timestamp="2018-01-15T12:14:18Z" changeset="55460442" uid="712336" user="DenisJu">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="supervised" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4545057897" lat="41.3260539" lon="19.8190954" version="4" timestamp="2018-01-15T12:14:18Z" changeset="55460442" uid="712336" user="DenisJu">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="supervised" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4545057901" lat="41.3257554" lon="19.8184088" version="2" timestamp="2017-01-29T16:31:51Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4545057902" lat="41.3259428" lon="19.8189927" version="1" timestamp="2016-12-08T15:24:40Z" changeset="44260421" uid="712336" user="DenisJu"/>
+  <node id="4545057904" lat="41.3259623" lon="19.8191191" version="1" timestamp="2016-12-08T15:24:40Z" changeset="44260421" uid="712336" user="DenisJu"/>
+  <node id="4545057906" lat="41.3254887" lon="19.8193418" version="2" timestamp="2016-12-22T18:25:45Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545057907" lat="41.3254383" lon="19.8193888" version="2" timestamp="2016-12-22T18:25:45Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545057908" lat="41.3254121" lon="19.8196167" version="2" timestamp="2016-12-22T18:25:45Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058015" lat="41.3253205" lon="19.8197442" version="2" timestamp="2016-12-22T18:25:45Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058016" lat="41.3251956" lon="19.8196556" version="2" timestamp="2016-12-22T18:25:45Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058017" lat="41.3252107" lon="19.8197281" version="2" timestamp="2016-12-22T18:25:45Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058029" lat="41.3251180" lon="19.8196570" version="2" timestamp="2016-12-22T18:25:47Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058030" lat="41.3250717" lon="19.8195470" version="2" timestamp="2016-12-22T18:25:47Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058031" lat="41.3252661" lon="19.8194075" version="2" timestamp="2016-12-22T18:25:47Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058032" lat="41.3251503" lon="19.8190977" version="2" timestamp="2016-12-22T18:25:47Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058033" lat="41.3250929" lon="19.8190052" version="2" timestamp="2016-12-22T18:25:47Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058035" lat="41.3252802" lon="19.8190495" version="2" timestamp="2016-12-22T18:25:47Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058036" lat="41.3253880" lon="19.8190119" version="2" timestamp="2016-12-22T18:25:47Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058037" lat="41.3254383" lon="19.8190159" version="2" timestamp="2016-12-22T18:25:48Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058038" lat="41.3255410" lon="19.8189234" version="2" timestamp="2016-12-22T18:25:48Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545058039" lat="41.3250455" lon="19.8189905" version="2" timestamp="2016-12-22T18:25:48Z" changeset="44597360" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4545060332" lat="41.3266447" lon="19.8189352" version="1" timestamp="2016-12-08T15:25:13Z" changeset="44260421" uid="712336" user="DenisJu"/>
+  <node id="4545060333" lat="41.3266266" lon="19.8188053" version="1" timestamp="2016-12-08T15:25:13Z" changeset="44260421" uid="712336" user="DenisJu"/>
+  <node id="4545060363" lat="41.3251907" lon="19.8190026" version="1" timestamp="2016-12-08T15:25:15Z" changeset="44260421" uid="712336" user="DenisJu"/>
+  <node id="4545060364" lat="41.3240852" lon="19.8195125" version="2" timestamp="2016-12-10T14:14:17Z" changeset="44304104" uid="712336" user="DenisJu"/>
+  <node id="4545060365" lat="41.3260788" lon="19.8190889" version="1" timestamp="2016-12-08T15:25:15Z" changeset="44260421" uid="712336" user="DenisJu"/>
+  <node id="4545060369" lat="41.3260574" lon="19.8189599" version="4" timestamp="2018-01-15T12:14:20Z" changeset="55460442" uid="712336" user="DenisJu">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="supervised" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4545060370" lat="41.3259070" lon="19.8187611" version="4" timestamp="2018-01-15T12:14:20Z" changeset="55460442" uid="712336" user="DenisJu">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="supervised" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4545060371" lat="41.3251666" lon="19.8195575" version="1" timestamp="2016-12-08T15:25:15Z" changeset="44260421" uid="712336" user="DenisJu"/>
+  <node id="4545060372" lat="41.3249337" lon="19.8191237" version="2" timestamp="2017-01-29T16:31:51Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4545060373" lat="41.3240732" lon="19.8193626" version="2" timestamp="2017-01-29T16:31:51Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4545060643" lat="41.3254739" lon="19.8191238" version="2" timestamp="2017-01-28T20:34:30Z" changeset="45603454" uid="712336" user="DenisJu"/>
+  <node id="4545060644" lat="41.3254949" lon="19.8192465" version="5" timestamp="2018-01-15T12:14:21Z" changeset="55460442" uid="712336" user="DenisJu">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="supervised" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4545060669" lat="41.3241042" lon="19.8196258" version="3" timestamp="2017-01-28T20:34:30Z" changeset="45603454" uid="712336" user="DenisJu"/>
+  <node id="4547969119" lat="41.3256286" lon="19.8170358" version="2" timestamp="2018-01-15T12:14:34Z" changeset="55460442" uid="712336" user="DenisJu">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="crossing_ref" v="zebra"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="supervised" v="no"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="4642346179" lat="41.3254009" lon="19.8185940" version="1" timestamp="2017-01-29T16:31:44Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642346183" lat="41.3237705" lon="19.8175496" version="1" timestamp="2017-01-29T16:31:44Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642346184" lat="41.3255439" lon="19.8170574" version="1" timestamp="2017-01-29T16:31:44Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642346185" lat="41.3258178" lon="19.8188068" version="1" timestamp="2017-01-29T16:31:44Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642346186" lat="41.3254898" lon="19.8188978" version="1" timestamp="2017-01-29T16:31:44Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642346187" lat="41.3255006" lon="19.8189663" version="1" timestamp="2017-01-29T16:31:44Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642346188" lat="41.3240552" lon="19.8193676" version="1" timestamp="2017-01-29T16:31:44Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642356915" lat="41.3252033" lon="19.8178171" version="1" timestamp="2017-01-29T16:31:47Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642356919" lat="41.3250854" lon="19.8178506" version="1" timestamp="2017-01-29T16:31:47Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642356920" lat="41.3250462" lon="19.8178613" version="1" timestamp="2017-01-29T16:31:47Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642356921" lat="41.3249021" lon="19.8179820" version="1" timestamp="2017-01-29T16:31:47Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642356922" lat="41.3249384" lon="19.8179471" version="1" timestamp="2017-01-29T16:31:47Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642356933" lat="41.3241256" lon="19.8192225" version="1" timestamp="2017-01-29T16:31:47Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642356934" lat="41.3249842" lon="19.8190319" version="1" timestamp="2017-01-29T16:31:47Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642356935" lat="41.3249916" lon="19.8190796" version="1" timestamp="2017-01-29T16:31:47Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642356936" lat="41.3251761" lon="19.8190284" version="1" timestamp="2017-01-29T16:31:47Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642356937" lat="41.3241457" lon="19.8192642" version="1" timestamp="2017-01-29T16:31:47Z" changeset="45624959" uid="712336" user="DenisJu"/>
+  <node id="4642387650" lat="41.3259753" lon="19.8197570" version="1" timestamp="2017-01-29T16:50:20Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642387651" lat="41.3259612" lon="19.8195813" version="1" timestamp="2017-01-29T16:50:20Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642387652" lat="41.3259370" lon="19.8194767" version="1" timestamp="2017-01-29T16:50:20Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642387653" lat="41.3259481" lon="19.8192662" version="1" timestamp="2017-01-29T16:50:20Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642387654" lat="41.3258253" lon="19.8193278" version="1" timestamp="2017-01-29T16:50:20Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642387655" lat="41.3257195" lon="19.8193681" version="1" timestamp="2017-01-29T16:50:20Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389730" lat="41.3252262" lon="19.8204200" version="1" timestamp="2017-01-29T16:50:34Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="4642389731" lat="41.3242392" lon="19.8204331" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="4642389733" lat="41.3251007" lon="19.8196528" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="4642389734" lat="41.3241618" lon="19.8199276" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="4642389735" lat="41.3243556" lon="19.8211941" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="4642389736" lat="41.3251089" lon="19.8209313" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="4642389737" lat="41.3250512" lon="19.8205645" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="4642389738" lat="41.3252408" lon="19.8205095" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu"/>
+  <node id="4642389739" lat="41.3251469" lon="19.8194344" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389740" lat="41.3250804" lon="19.8194519" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389741" lat="41.3253423" lon="19.8194961" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389742" lat="41.3252969" lon="19.8195055" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389743" lat="41.3252546" lon="19.8195162" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389744" lat="41.3252133" lon="19.8195270" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389745" lat="41.3251761" lon="19.8195364" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389746" lat="41.3251428" lon="19.8195471" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389747" lat="41.3258509" lon="19.8194666" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389748" lat="41.3257149" lon="19.8197120" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389749" lat="41.3258005" lon="19.8196866" version="1" timestamp="2017-01-29T16:50:35Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389756" lat="41.3248377" lon="19.8192091" version="1" timestamp="2017-01-29T16:50:36Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389757" lat="41.3249364" lon="19.8191836" version="1" timestamp="2017-01-29T16:50:36Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389758" lat="41.3250300" lon="19.8191729" version="1" timestamp="2017-01-29T16:50:36Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389759" lat="41.3247561" lon="19.8192333" version="1" timestamp="2017-01-29T16:50:36Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389760" lat="41.3246453" lon="19.8192601" version="1" timestamp="2017-01-29T16:50:36Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389761" lat="41.3245678" lon="19.8192856" version="1" timestamp="2017-01-29T16:50:36Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642389762" lat="41.3244761" lon="19.8193097" version="1" timestamp="2017-01-29T16:50:36Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642390559" lat="41.3251922" lon="19.8189034" version="1" timestamp="2017-01-29T16:50:44Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642390560" lat="41.3244107" lon="19.8191890" version="1" timestamp="2017-01-29T16:50:44Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642390561" lat="41.3244791" lon="19.8191769" version="1" timestamp="2017-01-29T16:50:44Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642391092" lat="41.3244217" lon="19.8190857" version="1" timestamp="2017-01-29T16:50:46Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642391093" lat="41.3245486" lon="19.8190938" version="1" timestamp="2017-01-29T16:50:46Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4642391094" lat="41.3246101" lon="19.8189235" version="1" timestamp="2017-01-29T16:50:46Z" changeset="45625569" uid="712336" user="DenisJu">
+    <tag k="leaf_cycle" v="mixed"/>
+    <tag k="leaf_type" v="mixed"/>
+    <tag k="natural" v="tree"/>
+    <tag k="source" v="bing;survey;gps"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+  </node>
+  <node id="4967164221" lat="41.3254215" lon="19.8190477" version="2" timestamp="2018-01-13T21:49:09Z" changeset="55417651" uid="712336" user="DenisJu">
+    <tag k="name" v="National gallery of art"/>
+    <tag k="name:en" v="National gallery of art"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="5008647521" lat="41.3249945" lon="19.8191332" version="2" timestamp="2018-01-13T21:49:08Z" changeset="55417651" uid="712336" user="DenisJu">
+    <tag k="name" v="National Gallery of Art"/>
+    <tag k="name:en" v="National Gallery of Art"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="5100486821" lat="41.3255281" lon="19.8197353" version="3" timestamp="2018-01-13T21:49:08Z" changeset="55417651" uid="712336" user="DenisJu">
+    <tag k="name" v="REJA (The Cloud Pavillion by Sou Fujimoto - Courtesy of LUMA Foundation)"/>
+    <tag k="name:en" v="REJA (The Cloud Pavillion by Sou Fujimoto - Courtesy of LUMA Foundation)"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="5320306892" lat="41.3257185" lon="19.8175931" version="1" timestamp="2018-01-04T14:16:08Z" changeset="55159205" uid="3407581" user="diskmanti">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Parku Rinia"/>
+    <tag k="network" v="Bashkia Tirane"/>
+    <tag k="operator" v="L1"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <way id="3192421" version="6" timestamp="2017-01-29T16:31:51Z" changeset="45624959" uid="712336" user="DenisJu">
+    <nd ref="4545060372"/>
+    <nd ref="429652060"/>
+    <nd ref="15460011"/>
+    <nd ref="2418944839"/>
+    <nd ref="4642356921"/>
+    <nd ref="4642356922"/>
+    <nd ref="2418944840"/>
+    <nd ref="4642356920"/>
+    <nd ref="4642356919"/>
+    <nd ref="429652218"/>
+    <nd ref="4642356915"/>
+    <nd ref="429652032"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="8132745" version="7" timestamp="2017-01-29T16:31:51Z" changeset="45624959" uid="712336" user="DenisJu">
+    <nd ref="4545057664"/>
+    <nd ref="4642346188"/>
+    <nd ref="4545060373"/>
+    <nd ref="4545060372"/>
+    <nd ref="4642346187"/>
+    <nd ref="4642346186"/>
+    <nd ref="4642346185"/>
+    <nd ref="4545057901"/>
+    <nd ref="429652032"/>
+    <nd ref="4642346184"/>
+    <nd ref="4539989287"/>
+    <nd ref="4642346183"/>
+    <nd ref="4545057664"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="37233844" version="15" timestamp="2018-01-15T13:19:03Z" changeset="55462124" uid="712336" user="DenisJu">
+    <nd ref="4545057902"/>
+    <nd ref="4545057892"/>
+    <nd ref="4545060643"/>
+    <nd ref="4545057822"/>
+    <nd ref="4545060364"/>
+    <nd ref="4545057667"/>
+    <tag k="cycleway:right" v="lane"/>
+    <tag k="destination:lanes" v="Elbasan|UP Tiranës|Durrës;Shkodër"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="layer" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Bulevardi Dëshmorët e Kombit"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="through|through|through;right"/>
+    <tag k="wikipedia" v="en:Dëshmorët e Kombit Boulevard"/>
+  </way>
+  <way id="236570683" version="2" timestamp="2016-12-08T15:25:49Z" changeset="44260421" uid="712336" user="DenisJu">
+    <nd ref="4545060371"/>
+    <nd ref="2445916136"/>
+    <nd ref="429650397"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="248355616" version="5" timestamp="2017-01-25T12:03:07Z" changeset="45473015" uid="5188593" user="Scerdt">
+    <nd ref="2551504561"/>
+    <nd ref="2551504570"/>
+    <nd ref="2551504572"/>
+    <nd ref="2551504575"/>
+    <nd ref="2551504577"/>
+    <nd ref="2551504563"/>
+    <nd ref="2551504561"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Parku i Galerisë Kombëtare të Arteve"/>
+  </way>
+  <way id="248355618" version="4" timestamp="2017-01-29T16:31:52Z" changeset="45624959" uid="712336" user="DenisJu">
+    <nd ref="4642356937"/>
+    <nd ref="4642356933"/>
+    <nd ref="2551504534"/>
+    <nd ref="2551504530"/>
+    <nd ref="2551504569"/>
+    <nd ref="2551504573"/>
+    <nd ref="2551504565"/>
+    <nd ref="2551504566"/>
+    <nd ref="4642356936"/>
+    <nd ref="4642356935"/>
+    <nd ref="4642356934"/>
+    <nd ref="4642356937"/>
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="Parku Rinia"/>
+    <tag k="wikidata" v="Q195228"/>
+  </way>
+  <way id="383785330" version="9" timestamp="2018-01-15T13:20:48Z" changeset="55462124" uid="712336" user="DenisJu">
+    <nd ref="2619568630"/>
+    <nd ref="4545060333"/>
+    <nd ref="2418944843"/>
+    <nd ref="4545060369"/>
+    <nd ref="4545057902"/>
+    <tag k="cycleway:right" v="lane"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Bulevardi Dëshmorët e Kombit"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="through|through|through"/>
+    <tag k="wikipedia" v="en:Dëshmorët e Kombit Boulevard"/>
+  </way>
+  <way id="457933451" version="8" timestamp="2018-01-15T12:28:30Z" changeset="55460442" uid="712336" user="DenisJu">
+    <nd ref="4539916527"/>
+    <nd ref="4547969119"/>
+    <nd ref="5320306892"/>
+    <nd ref="4545060370"/>
+    <nd ref="4545057902"/>
+    <tag k="cycleway:right" v="lane"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rruga Myslym Shyri"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source" v="bing;mapbox;digitalglobe-satellite"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left;through|through;right"/>
+  </way>
+  <way id="458516562" version="8" timestamp="2018-01-15T13:23:17Z" changeset="55462124" uid="712336" user="DenisJu">
+    <nd ref="4545057666"/>
+    <nd ref="4545060669"/>
+    <nd ref="4545057823"/>
+    <nd ref="4545060644"/>
+    <nd ref="4545057904"/>
+    <tag k="cycleway:right" v="lane"/>
+    <tag k="destination" v="Qënder"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Bulevardi Dëshmorët e Kombit"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="through|through|through"/>
+    <tag k="wikipedia" v="en:Dëshmorët e Kombit Boulevard"/>
+  </way>
+  <way id="458859558" version="1" timestamp="2016-12-10T14:14:07Z" changeset="44304104" uid="712336" user="DenisJu">
+    <nd ref="4545057904"/>
+    <nd ref="33359057"/>
+    <nd ref="429650397"/>
+    <nd ref="1248716484"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="cycleway" v="lane"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="pedestrian"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Shëtitorja Murat Toptani"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="smoothness" v="very_good"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="458859561" version="4" timestamp="2018-01-15T13:23:26Z" changeset="55462124" uid="712336" user="DenisJu">
+    <nd ref="4545057904"/>
+    <nd ref="4545057897"/>
+    <nd ref="4545060365"/>
+    <nd ref="4545060332"/>
+    <nd ref="4545057889"/>
+    <tag k="cycleway:right" v="lane"/>
+    <tag k="highway" v="primary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="Bulevardi Dëshmorët e Kombit"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source" v="bing;mapbox-satellite;survey;knowledge;local-info"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="slight_right|slight_right|slight_right"/>
+    <tag k="wikipedia" v="en:Dëshmorët e Kombit Boulevard"/>
+  </way>
+  <way id="469980275" version="1" timestamp="2017-01-29T16:31:48Z" changeset="45624959" uid="712336" user="DenisJu">
+    <nd ref="4642346179"/>
+    <nd ref="4545060363"/>
+    <tag k="highway" v="footway"/>
+  </way>
+  <way id="469983734" version="1" timestamp="2017-01-29T16:50:48Z" changeset="45625569" uid="712336" user="DenisJu">
+    <nd ref="4642389738"/>
+    <nd ref="4642389737"/>
+    <nd ref="4642389736"/>
+    <nd ref="4642389735"/>
+    <nd ref="4642389731"/>
+    <nd ref="4642389734"/>
+    <nd ref="4642389733"/>
+    <nd ref="4642389730"/>
+    <nd ref="4642389738"/>
+    <tag k="barrier" v="fence"/>
+    <tag k="fence_type" v="wire"/>
+  </way>
+  <way id="551660469" version="3" timestamp="2018-01-15T12:51:47Z" changeset="55461042" uid="712336" user="DenisJu">
+    <nd ref="4545057902"/>
+    <nd ref="4545057904"/>
+    <tag k="cycleway:right" v="lane"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source" v="bing;mapbox;digitalglobe-satellite"/>
+    <tag k="source_ref:url" v="https://www.flickr.com/photos/openstreetmap-albania/"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="turn:lanes" v="left;through|through;right"/>
+  </way>
+  <relation id="7828855" version="19" timestamp="2018-02-18T14:50:41Z" changeset="56465008" uid="3407581" user="diskmanti">
+    <member type="node" ref="5420313248" role="stop"/>
+    <member type="node" ref="5297483620" role="platform"/>
+    <member type="node" ref="5297486621" role="stop"/>
+    <member type="node" ref="2617225973" role="platform"/>
+    <member type="node" ref="5297486622" role="stop"/>
+    <member type="node" ref="5297486623" role="platform"/>
+    <member type="node" ref="5297486624" role="stop"/>
+    <member type="node" ref="5297486625" role="platform"/>
+    <member type="node" ref="5297486626" role="stop"/>
+    <member type="node" ref="5297486627" role="platform"/>
+    <member type="node" ref="5297403645" role="stop"/>
+    <member type="node" ref="5297403646" role="platform"/>
+    <member type="node" ref="5297403647" role="stop"/>
+    <member type="node" ref="5297403648" role="platform"/>
+    <member type="node" ref="5297403649" role="stop"/>
+    <member type="node" ref="5297403650" role="platform"/>
+    <member type="node" ref="5297403651" role="stop"/>
+    <member type="node" ref="5297403652" role="platform"/>
+    <member type="node" ref="5297403653" role="stop"/>
+    <member type="node" ref="5297403654" role="platform"/>
+    <member type="node" ref="5297403655" role="stop"/>
+    <member type="node" ref="4643857693" role="platform"/>
+    <member type="node" ref="5297403656" role="stop"/>
+    <member type="node" ref="5297403657" role="platform"/>
+    <member type="node" ref="5297403658" role="stop"/>
+    <member type="node" ref="4668094755" role="platform"/>
+    <member type="node" ref="5297403659" role="stop"/>
+    <member type="node" ref="5297403660" role="platform"/>
+    <member type="node" ref="5297403661" role="stop"/>
+    <member type="node" ref="5297403662" role="platform"/>
+    <member type="node" ref="5297403663" role="stop"/>
+    <member type="node" ref="3983790103" role="platform"/>
+    <member type="node" ref="5297403664" role="stop"/>
+    <member type="node" ref="588878901" role="platform"/>
+    <member type="node" ref="5297403665" role="stop"/>
+    <member type="node" ref="3983803723" role="platform"/>
+    <member type="node" ref="5297403666" role="stop"/>
+    <member type="node" ref="4391562468" role="platform"/>
+    <member type="node" ref="5297483617" role="stop"/>
+    <member type="node" ref="2619377176" role="platform"/>
+    <member type="node" ref="5297483618" role="stop"/>
+    <member type="node" ref="2619376950" role="platform"/>
+    <member type="way" ref="458516618" role=""/>
+    <member type="way" ref="562243941" role=""/>
+    <member type="way" ref="552868937" role=""/>
+    <member type="way" ref="295121372" role=""/>
+    <member type="way" ref="173184636" role=""/>
+    <member type="way" ref="550833661" role=""/>
+    <member type="way" ref="295121384" role=""/>
+    <member type="way" ref="458711296" role=""/>
+    <member type="way" ref="458711294" role=""/>
+    <member type="way" ref="458711298" role=""/>
+    <member type="way" ref="548348588" role=""/>
+    <member type="way" ref="255038659" role=""/>
+    <member type="way" ref="458711305" role=""/>
+    <member type="way" ref="458711309" role=""/>
+    <member type="way" ref="522008525" role=""/>
+    <member type="way" ref="548340173" role=""/>
+    <member type="way" ref="173184645" role=""/>
+    <member type="way" ref="458711306" role=""/>
+    <member type="way" ref="551640972" role=""/>
+    <member type="way" ref="173184626" role=""/>
+    <member type="way" ref="173186030" role=""/>
+    <member type="way" ref="173186017" role=""/>
+    <member type="way" ref="458711313" role=""/>
+    <member type="way" ref="4042294" role=""/>
+    <member type="way" ref="458711312" role=""/>
+    <member type="way" ref="548366202" role=""/>
+    <member type="way" ref="548348587" role=""/>
+    <member type="way" ref="458516496" role=""/>
+    <member type="way" ref="458516518" role=""/>
+    <member type="way" ref="458516519" role=""/>
+    <member type="way" ref="458516554" role=""/>
+    <member type="way" ref="332508833" role=""/>
+    <member type="way" ref="458516548" role=""/>
+    <member type="way" ref="548340181" role=""/>
+    <member type="way" ref="458516550" role=""/>
+    <member type="way" ref="458516547" role=""/>
+    <member type="way" ref="458516581" role=""/>
+    <member type="way" ref="458516551" role=""/>
+    <member type="way" ref="458516584" role=""/>
+    <member type="way" ref="458516586" role=""/>
+    <member type="way" ref="458516557" role=""/>
+    <member type="way" ref="469773338" role=""/>
+    <member type="way" ref="458516595" role=""/>
+    <member type="way" ref="458516589" role=""/>
+    <member type="way" ref="458516562" role=""/>
+    <member type="way" ref="458859561" role=""/>
+    <member type="way" ref="173434427" role=""/>
+    <member type="way" ref="518775685" role=""/>
+    <member type="way" ref="229347215" role=""/>
+    <member type="way" ref="369730253" role=""/>
+    <member type="way" ref="469955585" role=""/>
+    <member type="way" ref="207183401" role=""/>
+    <member type="way" ref="469955584" role=""/>
+    <member type="way" ref="4042287" role=""/>
+    <member type="way" ref="554002386" role=""/>
+    <member type="way" ref="177441348" role=""/>
+    <member type="way" ref="173430409" role=""/>
+    <member type="way" ref="551640971" role=""/>
+    <member type="way" ref="459205954" role=""/>
+    <member type="way" ref="549320766" role=""/>
+    <member type="way" ref="548340178" role=""/>
+    <member type="way" ref="549282952" role=""/>
+    <member type="way" ref="550622100" role=""/>
+    <member type="way" ref="459205956" role=""/>
+    <member type="way" ref="554002385" role=""/>
+    <member type="way" ref="459205964" role=""/>
+    <member type="way" ref="457941830" role=""/>
+    <member type="way" ref="458265889" role=""/>
+    <member type="way" ref="513846602" role=""/>
+    <member type="way" ref="457941827" role=""/>
+    <member type="way" ref="548340177" role=""/>
+    <member type="way" ref="552152849" role=""/>
+    <member type="way" ref="552398387" role=""/>
+    <member type="way" ref="548340176" role=""/>
+    <member type="way" ref="173188811" role=""/>
+    <member type="way" ref="458265876" role=""/>
+    <member type="way" ref="552707906" role=""/>
+    <member type="way" ref="552707973" role=""/>
+    <member type="way" ref="552707975" role=""/>
+    <member type="way" ref="552707970" role=""/>
+    <member type="way" ref="173188804" role=""/>
+    <member type="way" ref="552707963" role=""/>
+    <member type="way" ref="552707962" role=""/>
+    <member type="way" ref="552707960" role=""/>
+    <member type="way" ref="552707958" role=""/>
+    <member type="way" ref="132559153" role=""/>
+    <member type="way" ref="552707954" role=""/>
+    <member type="way" ref="552707956" role=""/>
+    <member type="way" ref="548340174" role=""/>
+    <member type="way" ref="514119296" role=""/>
+    <member type="way" ref="514119293" role=""/>
+    <member type="way" ref="552707947" role=""/>
+    <member type="way" ref="458307638" role=""/>
+    <member type="way" ref="552707945" role=""/>
+    <member type="way" ref="548348589" role=""/>
+    <member type="way" ref="514119287" role=""/>
+    <member type="way" ref="552707942" role=""/>
+    <member type="way" ref="514119288" role=""/>
+    <member type="way" ref="552707932" role=""/>
+    <member type="way" ref="519024385" role=""/>
+    <member type="way" ref="552707928" role=""/>
+    <member type="way" ref="519024360" role=""/>
+    <member type="way" ref="519024372" role=""/>
+    <member type="way" ref="548340175" role=""/>
+    <member type="way" ref="548126967" role=""/>
+    <member type="way" ref="547930053" role=""/>
+    <member type="way" ref="519024380" role=""/>
+    <member type="way" ref="519024361" role=""/>
+    <member type="way" ref="552861029" role=""/>
+    <member type="way" ref="458359911" role=""/>
+    <member type="way" ref="283688265" role=""/>
+    <member type="way" ref="552868952" role=""/>
+    <member type="way" ref="552868964" role=""/>
+    <member type="way" ref="552868953" role=""/>
+    <member type="way" ref="552868960" role=""/>
+    <member type="way" ref="552868959" role=""/>
+    <member type="way" ref="173188813" role=""/>
+    <member type="way" ref="552868957" role=""/>
+    <member type="way" ref="552868955" role=""/>
+    <member type="way" ref="514128982" role=""/>
+    <member type="way" ref="552868954" role=""/>
+    <member type="way" ref="552868945" role=""/>
+    <member type="way" ref="552868936" role=""/>
+    <tag k="colour" v="#989898"/>
+    <tag k="name" v="Tirana e Re"/>
+    <tag k="network" v="L13"/>
+    <tag k="operator" v="Bashkia Tirane"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="L13"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="7829084" version="14" timestamp="2018-02-18T14:50:43Z" changeset="56465008" uid="3407581" user="diskmanti">
+    <member type="node" ref="4391562467" role="platform"/>
+    <member type="node" ref="5297635272" role="stop"/>
+    <member type="node" ref="588892512" role="platform"/>
+    <member type="node" ref="5297635271" role="stop"/>
+    <member type="node" ref="4714805062" role="platform"/>
+    <member type="node" ref="5297635270" role="stop"/>
+    <member type="node" ref="5297635269" role="platform"/>
+    <member type="node" ref="5297635268" role="stop"/>
+    <member type="node" ref="5297635267" role="platform"/>
+    <member type="node" ref="5297635266" role="stop"/>
+    <member type="node" ref="5297635265" role="platform"/>
+    <member type="node" ref="5297635264" role="stop"/>
+    <member type="node" ref="5297635263" role="platform"/>
+    <member type="node" ref="5297635262" role="stop"/>
+    <member type="node" ref="5297635261" role="platform"/>
+    <member type="node" ref="5297635260" role="stop"/>
+    <member type="node" ref="5297635259" role="platform"/>
+    <member type="node" ref="5297635258" role="stop"/>
+    <member type="node" ref="5297635257" role="platform"/>
+    <member type="node" ref="5297635255" role="stop"/>
+    <member type="node" ref="5297635254" role="platform"/>
+    <member type="node" ref="5297635253" role="stop"/>
+    <member type="node" ref="4169403691" role="platform"/>
+    <member type="node" ref="5297635252" role="stop"/>
+    <member type="node" ref="5297635251" role="platform"/>
+    <member type="node" ref="5297635250" role="stop"/>
+    <member type="node" ref="4643851690" role="platform"/>
+    <member type="node" ref="5297635249" role="stop"/>
+    <member type="node" ref="5039892421" role="platform"/>
+    <member type="node" ref="5297635248" role="stop"/>
+    <member type="node" ref="4714864973" role="platform"/>
+    <member type="node" ref="5297635247" role="stop"/>
+    <member type="node" ref="1455830345" role="platform"/>
+    <member type="node" ref="5297635246" role="stop"/>
+    <member type="node" ref="4437431032" role="platform"/>
+    <member type="node" ref="5297635245" role="stop"/>
+    <member type="node" ref="3983794253" role="platform"/>
+    <member type="node" ref="5297635244" role="stop"/>
+    <member type="node" ref="581363300" role="platform"/>
+    <member type="node" ref="5297635243" role="stop"/>
+    <member type="way" ref="173186019" role=""/>
+    <member type="way" ref="548340183" role=""/>
+    <member type="way" ref="458711307" role=""/>
+    <member type="way" ref="132558891" role=""/>
+    <member type="way" ref="548366203" role=""/>
+    <member type="way" ref="458711302" role=""/>
+    <member type="way" ref="458711308" role=""/>
+    <member type="way" ref="458711304" role=""/>
+    <member type="way" ref="173184647" role=""/>
+    <member type="way" ref="533770606" role=""/>
+    <member type="way" ref="458711303" role=""/>
+    <member type="way" ref="458711297" role=""/>
+    <member type="way" ref="551034617" role=""/>
+    <member type="way" ref="458711295" role=""/>
+    <member type="way" ref="173997752" role=""/>
+    <member type="way" ref="295121387" role=""/>
+    <member type="way" ref="295121385" role=""/>
+    <member type="way" ref="172205520" role=""/>
+    <member type="way" ref="458711291" role=""/>
+    <member type="way" ref="172205522" role=""/>
+    <member type="way" ref="295121376" role=""/>
+    <member type="way" ref="295121375" role=""/>
+    <member type="way" ref="458991908" role=""/>
+    <member type="way" ref="514128981" role=""/>
+    <member type="way" ref="295121378" role=""/>
+    <member type="way" ref="514128983" role=""/>
+    <member type="way" ref="458991909" role=""/>
+    <member type="way" ref="458359919" role=""/>
+    <member type="way" ref="30823505" role=""/>
+    <member type="way" ref="458359918" role=""/>
+    <member type="way" ref="458359917" role=""/>
+    <member type="way" ref="519024388" role=""/>
+    <member type="way" ref="283688269" role=""/>
+    <member type="way" ref="519024356" role=""/>
+    <member type="way" ref="519024357" role=""/>
+    <member type="way" ref="519024386" role=""/>
+    <member type="way" ref="283688282" role=""/>
+    <member type="way" ref="552707930" role=""/>
+    <member type="way" ref="514119286" role=""/>
+    <member type="way" ref="552707934" role=""/>
+    <member type="way" ref="514119289" role=""/>
+    <member type="way" ref="552707926" role=""/>
+    <member type="way" ref="514119290" role=""/>
+    <member type="way" ref="552707948" role=""/>
+    <member type="way" ref="552707946" role=""/>
+    <member type="way" ref="514119291" role=""/>
+    <member type="way" ref="552707953" role=""/>
+    <member type="way" ref="552707923" role=""/>
+    <member type="way" ref="552707921" role=""/>
+    <member type="way" ref="552707919" role=""/>
+    <member type="way" ref="458307633" role=""/>
+    <member type="way" ref="552707971" role=""/>
+    <member type="way" ref="173188806" role=""/>
+    <member type="way" ref="552707917" role=""/>
+    <member type="way" ref="458265877" role=""/>
+    <member type="way" ref="552707974" role=""/>
+    <member type="way" ref="513846605" role=""/>
+    <member type="way" ref="552707916" role=""/>
+    <member type="way" ref="513846606" role=""/>
+    <member type="way" ref="135174654" role=""/>
+    <member type="way" ref="513846603" role=""/>
+    <member type="way" ref="548351120" role=""/>
+    <member type="way" ref="457941829" role=""/>
+    <member type="way" ref="549166140" role=""/>
+    <member type="way" ref="548351119" role=""/>
+    <member type="way" ref="549125847" role=""/>
+    <member type="way" ref="459205967" role=""/>
+    <member type="way" ref="459205966" role=""/>
+    <member type="way" ref="553464725" role=""/>
+    <member type="way" ref="173430404" role=""/>
+    <member type="way" ref="550622102" role=""/>
+    <member type="way" ref="549141430" role=""/>
+    <member type="way" ref="173430408" role=""/>
+    <member type="way" ref="256162038" role=""/>
+    <member type="way" ref="551660470" role=""/>
+    <member type="way" ref="173191513" role=""/>
+    <member type="way" ref="458859577" role=""/>
+    <member type="way" ref="553464729" role=""/>
+    <member type="way" ref="469927077" role=""/>
+    <member type="way" ref="3192407" role=""/>
+    <member type="way" ref="469773341" role=""/>
+    <member type="way" ref="458516474" role=""/>
+    <member type="way" ref="458859590" role=""/>
+    <member type="way" ref="36950120" role=""/>
+    <member type="way" ref="458859591" role=""/>
+    <member type="way" ref="548340179" role=""/>
+    <member type="way" ref="383785330" role=""/>
+    <member type="way" ref="37233844" role=""/>
+    <member type="way" ref="469773340" role=""/>
+    <member type="way" ref="458516604" role=""/>
+    <member type="way" ref="458516601" role=""/>
+    <member type="way" ref="37233867" role=""/>
+    <member type="way" ref="458516560" role=""/>
+    <member type="way" ref="383785334" role=""/>
+    <member type="way" ref="548340182" role=""/>
+    <member type="way" ref="458516519" role=""/>
+    <member type="way" ref="458516518" role=""/>
+    <member type="way" ref="458516496" role=""/>
+    <member type="way" ref="548348587" role=""/>
+    <member type="way" ref="548366202" role=""/>
+    <member type="way" ref="458711312" role=""/>
+    <member type="way" ref="4042294" role=""/>
+    <member type="way" ref="458711313" role=""/>
+    <member type="way" ref="173186017" role=""/>
+    <tag k="colour" v="#989898"/>
+    <tag k="name" v="Tirana e Re"/>
+    <tag k="network" v="L13"/>
+    <tag k="operator" v="Bashkia Tirane"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="L13"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="7829085" version="2" timestamp="2018-02-18T14:50:44Z" changeset="56465008" uid="3407581" user="diskmanti">
+    <member type="relation" ref="7829084" role=""/>
+    <member type="relation" ref="7828855" role=""/>
+    <tag k="colour" v="#FEFD04"/>
+    <tag k="name" v="Tirana e Re"/>
+    <tag k="network" v="L13"/>
+    <tag k="operator" v="Bashkia Tirane"/>
+    <tag k="ref" v="L13"/>
+    <tag k="route_master" v="bus"/>
+    <tag k="type" v="route_master"/>
+  </relation>
+  <relation id="7874544" version="11" timestamp="2018-05-12T10:32:16Z" changeset="58898977" uid="712336" user="DenisJu">
+    <member type="node" ref="5320306913" role="platform"/>
+    <member type="node" ref="5320306911" role="stop"/>
+    <member type="node" ref="5320306910" role="platform"/>
+    <member type="node" ref="5320306909" role="stop"/>
+    <member type="node" ref="5320306908" role="platform"/>
+    <member type="node" ref="5320306907" role="stop"/>
+    <member type="node" ref="5320306906" role="platform"/>
+    <member type="node" ref="5320306905" role="stop"/>
+    <member type="node" ref="5320306903" role="platform"/>
+    <member type="node" ref="5320306902" role="stop"/>
+    <member type="node" ref="5320306901" role="platform"/>
+    <member type="node" ref="5320306900" role="stop"/>
+    <member type="node" ref="5320306899" role="platform"/>
+    <member type="node" ref="5320306898" role="stop"/>
+    <member type="node" ref="5320306897" role="platform"/>
+    <member type="node" ref="5320306896" role="stop"/>
+    <member type="node" ref="5304940882" role="stop"/>
+    <member type="node" ref="4479340293" role="platform"/>
+    <member type="node" ref="5320306895" role="platform"/>
+    <member type="node" ref="5320306894" role="stop"/>
+    <member type="node" ref="5320306893" role="platform"/>
+    <member type="node" ref="5320306892" role="stop"/>
+    <member type="node" ref="5297403662" role="platform"/>
+    <member type="node" ref="5297403661" role="stop"/>
+    <member type="node" ref="5297403660" role="platform"/>
+    <member type="node" ref="5297403659" role="stop"/>
+    <member type="node" ref="5304542702" role="platform"/>
+    <member type="node" ref="5304559593" role="stop"/>
+    <member type="node" ref="5304559592" role="platform"/>
+    <member type="node" ref="5304559591" role="stop"/>
+    <member type="node" ref="5295472691" role="platform"/>
+    <member type="node" ref="5295472690" role="stop"/>
+    <member type="node" ref="5295488399" role="platform"/>
+    <member type="node" ref="5295488398" role="stop"/>
+    <member type="node" ref="5295489891" role="platform"/>
+    <member type="node" ref="5295489890" role="stop"/>
+    <member type="node" ref="5320306891" role="platform"/>
+    <member type="node" ref="5320306890" role="stop"/>
+    <member type="node" ref="5320306889" role="platform"/>
+    <member type="node" ref="5320306888" role="stop"/>
+    <member type="node" ref="5320306887" role="platform"/>
+    <member type="node" ref="5320306886" role="stop"/>
+    <member type="node" ref="5320306885" role="platform"/>
+    <member type="node" ref="5320306884" role="stop"/>
+    <member type="node" ref="5320306883" role="platform"/>
+    <member type="node" ref="5320306882" role="stop"/>
+    <member type="way" ref="551045310" role=""/>
+    <member type="way" ref="550851829" role=""/>
+    <member type="way" ref="173638784" role=""/>
+    <member type="way" ref="173638795" role=""/>
+    <member type="way" ref="550860165" role=""/>
+    <member type="way" ref="459473453" role=""/>
+    <member type="way" ref="173638776" role=""/>
+    <member type="way" ref="459473458" role=""/>
+    <member type="way" ref="459577937" role=""/>
+    <member type="way" ref="562022038" role=""/>
+    <member type="way" ref="550860163" role=""/>
+    <member type="way" ref="519024346" role=""/>
+    <member type="way" ref="519024347" role=""/>
+    <member type="way" ref="550860161" role=""/>
+    <member type="way" ref="459577949" role=""/>
+    <member type="way" ref="459473471" role=""/>
+    <member type="way" ref="459473482" role=""/>
+    <member type="way" ref="459473491" role=""/>
+    <member type="way" ref="459473490" role=""/>
+    <member type="way" ref="45559009" role=""/>
+    <member type="way" ref="4042292" role=""/>
+    <member type="way" ref="584386536" role=""/>
+    <member type="way" ref="471096494" role=""/>
+    <member type="way" ref="458711289" role=""/>
+    <member type="way" ref="553263301" role=""/>
+    <member type="way" ref="459000211" role=""/>
+    <member type="way" ref="553263300" role=""/>
+    <member type="way" ref="459000206" role=""/>
+    <member type="way" ref="295121392" role=""/>
+    <member type="way" ref="295121396" role=""/>
+    <member type="way" ref="172206695" role=""/>
+    <member type="way" ref="458689222" role=""/>
+    <member type="way" ref="173590440" role=""/>
+    <member type="way" ref="458689204" role=""/>
+    <member type="way" ref="458859581" role=""/>
+    <member type="way" ref="457933451" role=""/>
+    <member type="way" ref="551660469" role=""/>
+    <member type="way" ref="458859561" role=""/>
+    <member type="way" ref="173434427" role=""/>
+    <member type="way" ref="518775685" role=""/>
+    <member type="way" ref="229347215" role=""/>
+    <member type="way" ref="369730253" role=""/>
+    <member type="way" ref="469955585" role=""/>
+    <member type="way" ref="207183401" role=""/>
+    <member type="way" ref="469955584" role=""/>
+    <member type="way" ref="4042287" role=""/>
+    <member type="way" ref="554002386" role=""/>
+    <member type="way" ref="177441348" role=""/>
+    <member type="way" ref="173430409" role=""/>
+    <member type="way" ref="551640971" role=""/>
+    <member type="way" ref="173430407" role=""/>
+    <member type="way" ref="549125846" role=""/>
+    <member type="way" ref="459248053" role=""/>
+    <member type="way" ref="459248052" role=""/>
+    <member type="way" ref="459205953" role=""/>
+    <member type="way" ref="459205950" role=""/>
+    <member type="way" ref="459205859" role=""/>
+    <member type="way" ref="173191505" role=""/>
+    <member type="way" ref="459205944" role=""/>
+    <member type="way" ref="549327407" role=""/>
+    <member type="way" ref="459205863" role=""/>
+    <member type="way" ref="459205946" role=""/>
+    <member type="way" ref="459205865" role=""/>
+    <member type="way" ref="587671422" role=""/>
+    <member type="way" ref="173428835" role=""/>
+    <member type="way" ref="459205909" role=""/>
+    <member type="way" ref="459205911" role=""/>
+    <member type="way" ref="459205910" role=""/>
+    <member type="way" ref="459205914" role=""/>
+    <member type="way" ref="547930042" role=""/>
+    <member type="way" ref="459205898" role=""/>
+    <member type="way" ref="459205894" role=""/>
+    <member type="way" ref="463437132" role=""/>
+    <member type="way" ref="173507042" role=""/>
+    <member type="way" ref="375373948" role=""/>
+    <member type="way" ref="551045312" role=""/>
+    <tag k="name" v="Selitë - Kristal - Qendër - Ish Stacioni i Trenit - Allias"/>
+    <tag k="network" v="L1"/>
+    <tag k="operator" v="Bashkia Tirane"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="L1"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="7874901" version="1" timestamp="2018-01-04T14:16:12Z" changeset="55159205" uid="3407581" user="diskmanti">
+    <member type="node" ref="5320306892" role="stop"/>
+    <member type="node" ref="5320306893" role="platform"/>
+    <tag k="name" v="Parku Rinia"/>
+    <tag k="network" v="Bashkia Tirane"/>
+    <tag k="operator" v="L1"/>
+    <tag k="public_transport" v="stop_area"/>
+    <tag k="type" v="public_transport"/>
+  </relation>
+  <relation id="7877268" version="1" timestamp="2018-01-05T11:50:09Z" changeset="55184747" uid="3407581" user="diskmanti">
+    <member type="relation" ref="7874544" role=""/>
+    <member type="relation" ref="7877097" role=""/>
+    <tag k="colour" v="#F4F57A"/>
+    <tag k="name" v="Selitë - Kristal - Qendër - Ish Stacioni i Trenit - Allias"/>
+    <tag k="network" v="L1"/>
+    <tag k="operator" v="Bashkia Tirane"/>
+    <tag k="ref" v="L1"/>
+    <tag k="route_master" v="bus"/>
+    <tag k="type" v="route_master"/>
+  </relation>
+  <relation id="7885875" version="5" timestamp="2018-01-18T12:34:23Z" changeset="55547966" uid="3407581" user="diskmanti">
+    <member type="node" ref="5327361717" role="stop"/>
+    <member type="node" ref="5327361718" role="platform"/>
+    <member type="node" ref="5327361705" role="stop"/>
+    <member type="node" ref="5327361706" role="platform"/>
+    <member type="node" ref="5327361716" role="platform"/>
+    <member type="node" ref="5327361715" role="stop"/>
+    <member type="node" ref="5327361714" role="platform"/>
+    <member type="node" ref="5327361713" role="stop"/>
+    <member type="node" ref="5327361712" role="platform"/>
+    <member type="node" ref="5327361711" role="stop"/>
+    <member type="node" ref="5327361710" role="platform"/>
+    <member type="node" ref="5327361709" role="stop"/>
+    <member type="node" ref="5327361708" role="platform"/>
+    <member type="node" ref="5327361707" role="stop"/>
+    <member type="node" ref="3983803723" role="platform"/>
+    <member type="node" ref="5297403665" role="stop"/>
+    <member type="node" ref="588878901" role="platform"/>
+    <member type="node" ref="5297403664" role="stop"/>
+    <member type="node" ref="3983790103" role="platform"/>
+    <member type="node" ref="5297403663" role="stop"/>
+    <member type="node" ref="5297403662" role="platform"/>
+    <member type="node" ref="5297403661" role="stop"/>
+    <member type="node" ref="5297403660" role="platform"/>
+    <member type="node" ref="5297403659" role="stop"/>
+    <member type="way" ref="229339618" role=""/>
+    <member type="way" ref="466541159" role=""/>
+    <member type="way" ref="551640979" role=""/>
+    <member type="way" ref="466541161" role=""/>
+    <member type="way" ref="265787367" role=""/>
+    <member type="way" ref="466541160" role=""/>
+    <member type="way" ref="551640978" role=""/>
+    <member type="way" ref="299812763" role=""/>
+    <member type="way" ref="369072380" role=""/>
+    <member type="way" ref="369072379" role=""/>
+    <member type="way" ref="369721465" role=""/>
+    <member type="way" ref="369721467" role=""/>
+    <member type="way" ref="369072376" role=""/>
+    <member type="way" ref="369072381" role=""/>
+    <member type="way" ref="369072378" role=""/>
+    <member type="way" ref="354377885" role=""/>
+    <member type="way" ref="369072382" role=""/>
+    <member type="way" ref="317208519" role=""/>
+    <member type="way" ref="317208525" role=""/>
+    <member type="way" ref="317219734" role=""/>
+    <member type="way" ref="359111743" role=""/>
+    <member type="way" ref="359111736" role=""/>
+    <member type="way" ref="265985525" role=""/>
+    <member type="way" ref="317219723" role=""/>
+    <member type="way" ref="551640975" role=""/>
+    <member type="way" ref="317219724" role=""/>
+    <member type="way" ref="551660468" role=""/>
+    <member type="way" ref="151990018" role=""/>
+    <member type="way" ref="265987239" role=""/>
+    <member type="way" ref="265987913" role=""/>
+    <member type="way" ref="173186023" role=""/>
+    <member type="way" ref="551640974" role=""/>
+    <member type="way" ref="233519316" role=""/>
+    <member type="way" ref="317219726" role=""/>
+    <member type="way" ref="174610643" role=""/>
+    <member type="way" ref="173186024" role=""/>
+    <member type="way" ref="23819938" role=""/>
+    <member type="way" ref="173184626" role=""/>
+    <member type="way" ref="173186030" role=""/>
+    <member type="way" ref="173186017" role=""/>
+    <member type="way" ref="458711313" role=""/>
+    <member type="way" ref="4042294" role=""/>
+    <member type="way" ref="458711312" role=""/>
+    <member type="way" ref="548366202" role=""/>
+    <member type="way" ref="548348587" role=""/>
+    <member type="way" ref="458516496" role=""/>
+    <member type="way" ref="458516518" role=""/>
+    <member type="way" ref="458516519" role=""/>
+    <member type="way" ref="458516554" role=""/>
+    <member type="way" ref="332508833" role=""/>
+    <member type="way" ref="458516548" role=""/>
+    <member type="way" ref="548340181" role=""/>
+    <member type="way" ref="458516550" role=""/>
+    <member type="way" ref="458516547" role=""/>
+    <member type="way" ref="458516581" role=""/>
+    <member type="way" ref="458516551" role=""/>
+    <member type="way" ref="458516584" role=""/>
+    <member type="way" ref="458516586" role=""/>
+    <member type="way" ref="458516557" role=""/>
+    <member type="way" ref="469773338" role=""/>
+    <member type="way" ref="458516595" role=""/>
+    <member type="way" ref="458516589" role=""/>
+    <member type="way" ref="458516562" role=""/>
+    <member type="way" ref="458859561" role=""/>
+    <member type="way" ref="173434427" role=""/>
+    <member type="way" ref="518775685" role=""/>
+    <member type="way" ref="229347215" role=""/>
+    <member type="way" ref="369730253" role=""/>
+    <member type="way" ref="469955585" role=""/>
+    <member type="way" ref="207183401" role=""/>
+    <member type="way" ref="469955584" role=""/>
+    <member type="way" ref="4042287" role=""/>
+    <member type="way" ref="554002386" role=""/>
+    <member type="way" ref="177441348" role=""/>
+    <member type="way" ref="173430409" role=""/>
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Teg - Sauk i Vjetër - Kopshti Zoologjik - Ish Stacioni i Trenit"/>
+    <tag k="network" v="L2"/>
+    <tag k="operator" v="Bashkia Tirane"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="L2"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="7886110" version="2" timestamp="2018-01-16T08:58:29Z" changeset="55486309" uid="3407581" user="diskmanti">
+    <member type="node" ref="1455830345" role="platform"/>
+    <member type="node" ref="5297635246" role="stop"/>
+    <member type="node" ref="4437431032" role="platform"/>
+    <member type="node" ref="5297635245" role="stop"/>
+    <member type="node" ref="3983794253" role="platform"/>
+    <member type="node" ref="5297635244" role="stop"/>
+    <member type="node" ref="581363300" role="platform"/>
+    <member type="node" ref="5297635243" role="stop"/>
+    <member type="node" ref="5327403330" role="platform"/>
+    <member type="node" ref="5327403329" role="stop"/>
+    <member type="node" ref="5327403332" role="platform"/>
+    <member type="node" ref="5327403331" role="stop"/>
+    <member type="node" ref="5327403334" role="platform"/>
+    <member type="node" ref="5327403333" role="stop"/>
+    <member type="node" ref="5327403336" role="platform"/>
+    <member type="node" ref="5327403335" role="stop"/>
+    <member type="node" ref="5327403338" role="platform"/>
+    <member type="node" ref="5327403337" role="stop"/>
+    <member type="node" ref="5327403340" role="platform"/>
+    <member type="node" ref="5327403339" role="stop"/>
+    <member type="node" ref="5327361717" role="stop"/>
+    <member type="node" ref="5327361718" role="platform"/>
+    <member type="way" ref="173191513" role=""/>
+    <member type="way" ref="458859577" role=""/>
+    <member type="way" ref="553464729" role=""/>
+    <member type="way" ref="469927077" role=""/>
+    <member type="way" ref="3192407" role=""/>
+    <member type="way" ref="469773341" role=""/>
+    <member type="way" ref="458516474" role=""/>
+    <member type="way" ref="458516473" role=""/>
+    <member type="way" ref="457933451" role=""/>
+    <member type="way" ref="37233844" role=""/>
+    <member type="way" ref="469773340" role=""/>
+    <member type="way" ref="458516604" role=""/>
+    <member type="way" ref="458516601" role=""/>
+    <member type="way" ref="37233867" role=""/>
+    <member type="way" ref="458516560" role=""/>
+    <member type="way" ref="383785334" role=""/>
+    <member type="way" ref="548340182" role=""/>
+    <member type="way" ref="458516519" role=""/>
+    <member type="way" ref="458516518" role=""/>
+    <member type="way" ref="458516496" role=""/>
+    <member type="way" ref="548348587" role=""/>
+    <member type="way" ref="548366202" role=""/>
+    <member type="way" ref="458711312" role=""/>
+    <member type="way" ref="4042294" role=""/>
+    <member type="way" ref="458711313" role=""/>
+    <member type="way" ref="173186017" role=""/>
+    <member type="way" ref="173186019" role=""/>
+    <member type="way" ref="548340183" role=""/>
+    <member type="way" ref="548351112" role=""/>
+    <member type="way" ref="551640972" role=""/>
+    <member type="way" ref="23819938" role=""/>
+    <member type="way" ref="173186024" role=""/>
+    <member type="way" ref="174610643" role=""/>
+    <member type="way" ref="551640973" role=""/>
+    <member type="way" ref="233519316" role=""/>
+    <member type="way" ref="551640974" role=""/>
+    <member type="way" ref="173186023" role=""/>
+    <member type="way" ref="265987913" role=""/>
+    <member type="way" ref="265987239" role=""/>
+    <member type="way" ref="151990018" role=""/>
+    <member type="way" ref="359111737" role=""/>
+    <member type="way" ref="317219736" role=""/>
+    <member type="way" ref="317219730" role=""/>
+    <member type="way" ref="317219733" role=""/>
+    <member type="way" ref="299817821" role=""/>
+    <member type="way" ref="317208514" role=""/>
+    <member type="way" ref="317208520" role=""/>
+    <member type="way" ref="369721469" role=""/>
+    <member type="way" ref="369713660" role=""/>
+    <member type="way" ref="369721466" role=""/>
+    <member type="way" ref="369721464" role=""/>
+    <member type="way" ref="369721468" role=""/>
+    <member type="way" ref="235523996" role=""/>
+    <member type="way" ref="466541163" role=""/>
+    <member type="way" ref="265787367" role=""/>
+    <member type="way" ref="466541162" role=""/>
+    <member type="way" ref="265787368" role=""/>
+    <member type="way" ref="466541158" role=""/>
+    <member type="way" ref="229339618" role=""/>
+    <tag k="name" v="Ish Stacioni i Trenit - Kopshti Zoologjik - Sauk i Vjetër - TEG"/>
+    <tag k="network" v="L2"/>
+    <tag k="operator" v="Bashkia Tirane"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="L2"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="7886111" version="1" timestamp="2018-01-08T13:19:40Z" changeset="55263765" uid="3407581" user="diskmanti">
+    <member type="relation" ref="7885875" role=""/>
+    <member type="relation" ref="7886110" role=""/>
+    <tag k="colour" v="#874666"/>
+    <tag k="name" v="TEG - Sauk i Vjetër - Kopshti Zoologjik - Ish Stacioni i Trenit"/>
+    <tag k="network" v="L2"/>
+    <tag k="operator" v="Bashkia Tirane"/>
+    <tag k="ref" v="L2"/>
+    <tag k="route_master" v="bus"/>
+    <tag k="type" v="route_master"/>
+  </relation>
+  <relation id="7888583" version="12" timestamp="2018-05-25T06:38:02Z" changeset="59260382" uid="3407581" user="diskmanti">
+    <member type="node" ref="5306411734" role="platform"/>
+    <member type="node" ref="5306411733" role="stop"/>
+    <member type="node" ref="4437431032" role="platform"/>
+    <member type="node" ref="5297635245" role="stop"/>
+    <member type="node" ref="4527208491" role="platform"/>
+    <member type="node" ref="5330787341" role="stop"/>
+    <member type="node" ref="5297403655" role="stop"/>
+    <member type="node" ref="4643857693" role="platform"/>
+    <member type="node" ref="5297403654" role="platform"/>
+    <member type="node" ref="5297403653" role="stop"/>
+    <member type="node" ref="5297403652" role="platform"/>
+    <member type="node" ref="5297403651" role="stop"/>
+    <member type="node" ref="5330787340" role="platform"/>
+    <member type="node" ref="5330787339" role="stop"/>
+    <member type="node" ref="5297403650" role="platform"/>
+    <member type="node" ref="5297403649" role="stop"/>
+    <member type="node" ref="5297403645" role="stop"/>
+    <member type="node" ref="5297403646" role="platform"/>
+    <member type="node" ref="5330787338" role="platform"/>
+    <member type="node" ref="5330787337" role="stop"/>
+    <member type="node" ref="5330787336" role="platform"/>
+    <member type="node" ref="5330787335" role="stop"/>
+    <member type="node" ref="5330787334" role="platform"/>
+    <member type="node" ref="5330787333" role="stop"/>
+    <member type="node" ref="5330787332" role="platform"/>
+    <member type="node" ref="5330787331" role="stop"/>
+    <member type="node" ref="5330787330" role="platform"/>
+    <member type="node" ref="5330787329" role="stop"/>
+    <member type="node" ref="5330787328" role="platform"/>
+    <member type="node" ref="5330787327" role="stop"/>
+    <member type="node" ref="5330787326" role="platform"/>
+    <member type="node" ref="5330787325" role="stop"/>
+    <member type="node" ref="4680479428" role="platform"/>
+    <member type="node" ref="5330787324" role="stop"/>
+    <member type="node" ref="5330787323" role="platform"/>
+    <member type="node" ref="5330787322" role="stop"/>
+    <member type="node" ref="5295447190" role="platform"/>
+    <member type="node" ref="5295447189" role="stop"/>
+    <member type="node" ref="5295369846" role="platform"/>
+    <member type="node" ref="5295369845" role="stop"/>
+    <member type="node" ref="5295449527" role="platform"/>
+    <member type="node" ref="5295449526" role="stop"/>
+    <member type="node" ref="5295450788" role="platform"/>
+    <member type="node" ref="5295450787" role="stop"/>
+    <member type="way" ref="458718971" role=""/>
+    <member type="way" ref="458516474" role=""/>
+    <member type="way" ref="458516473" role=""/>
+    <member type="way" ref="457933451" role=""/>
+    <member type="way" ref="551660469" role=""/>
+    <member type="way" ref="458859561" role=""/>
+    <member type="way" ref="173434427" role=""/>
+    <member type="way" ref="518775685" role=""/>
+    <member type="way" ref="229347215" role=""/>
+    <member type="way" ref="369730253" role=""/>
+    <member type="way" ref="469955585" role=""/>
+    <member type="way" ref="207183401" role=""/>
+    <member type="way" ref="469955584" role=""/>
+    <member type="way" ref="4042287" role=""/>
+    <member type="way" ref="554002386" role=""/>
+    <member type="way" ref="177441348" role=""/>
+    <member type="way" ref="175334456" role=""/>
+    <member type="way" ref="458859577" role=""/>
+    <member type="way" ref="553464729" role=""/>
+    <member type="way" ref="469927077" role=""/>
+    <member type="way" ref="458859576" role=""/>
+    <member type="way" ref="450756810" role=""/>
+    <member type="way" ref="551904499" role=""/>
+    <member type="way" ref="173192209" role=""/>
+    <member type="way" ref="37229363" role=""/>
+    <member type="way" ref="457941830" role=""/>
+    <member type="way" ref="458265889" role=""/>
+    <member type="way" ref="513846602" role=""/>
+    <member type="way" ref="457941827" role=""/>
+    <member type="way" ref="548340177" role=""/>
+    <member type="way" ref="552152849" role=""/>
+    <member type="way" ref="552398387" role=""/>
+    <member type="way" ref="548340176" role=""/>
+    <member type="way" ref="173188811" role=""/>
+    <member type="way" ref="458265876" role=""/>
+    <member type="way" ref="552707906" role=""/>
+    <member type="way" ref="552707973" role=""/>
+    <member type="way" ref="552707975" role=""/>
+    <member type="way" ref="552707970" role=""/>
+    <member type="way" ref="173188804" role=""/>
+    <member type="way" ref="552707963" role=""/>
+    <member type="way" ref="552707962" role=""/>
+    <member type="way" ref="552707960" role=""/>
+    <member type="way" ref="552707958" role=""/>
+    <member type="way" ref="132559153" role=""/>
+    <member type="way" ref="552707954" role=""/>
+    <member type="way" ref="552707956" role=""/>
+    <member type="way" ref="548340174" role=""/>
+    <member type="way" ref="514119296" role=""/>
+    <member type="way" ref="379537656" role=""/>
+    <member type="way" ref="551935650" role=""/>
+    <member type="way" ref="458307649" role=""/>
+    <member type="way" ref="551678234" role=""/>
+    <member type="way" ref="379536189" role=""/>
+    <member type="way" ref="465177274" role=""/>
+    <member type="way" ref="465177273" role=""/>
+    <member type="way" ref="465177276" role=""/>
+    <member type="way" ref="465177279" role=""/>
+    <member type="way" ref="465177278" role=""/>
+    <member type="way" ref="379535564" role=""/>
+    <member type="way" ref="379535565" role=""/>
+    <member type="way" ref="379535536" role=""/>
+    <member type="way" ref="379535538" role=""/>
+    <member type="way" ref="379535403" role=""/>
+    <member type="way" ref="379535405" role=""/>
+    <member type="way" ref="379529966" role=""/>
+    <member type="way" ref="464763340" role=""/>
+    <member type="way" ref="379530021" role=""/>
+    <member type="way" ref="464763339" role=""/>
+    <member type="way" ref="45570438" role=""/>
+    <member type="way" ref="45570257" role=""/>
+    <member type="way" ref="551904504" role=""/>
+    <member type="way" ref="551678236" role=""/>
+    <member type="way" ref="175785421" role=""/>
+    <member type="way" ref="551929991" role=""/>
+    <member type="way" ref="282305573" role=""/>
+    <member type="way" ref="237733806" role=""/>
+    <member type="way" ref="256323160" role=""/>
+    <member type="way" ref="519024336" role=""/>
+    <member type="way" ref="519024359" role=""/>
+    <member type="way" ref="519024365" role=""/>
+    <member type="way" ref="547930053" role=""/>
+    <member type="way" ref="519024380" role=""/>
+    <member type="way" ref="519024361" role=""/>
+    <member type="way" ref="552861029" role=""/>
+    <member type="way" ref="458359911" role=""/>
+    <member type="way" ref="173207947" role=""/>
+    <member type="way" ref="458359916" role=""/>
+    <member type="way" ref="458359915" role=""/>
+    <member type="way" ref="458359905" role=""/>
+    <member type="way" ref="552713989" role=""/>
+    <member type="way" ref="552713987" role=""/>
+    <member type="way" ref="458359906" role=""/>
+    <member type="way" ref="552713981" role=""/>
+    <member type="way" ref="552713956" role=""/>
+    <member type="way" ref="552713982" role=""/>
+    <member type="way" ref="458363699" role=""/>
+    <member type="way" ref="458516622" role=""/>
+    <member type="way" ref="458718975" role=""/>
+    <member type="way" ref="173207963" role=""/>
+    <member type="way" ref="552713958" role=""/>
+    <member type="way" ref="552713973" role=""/>
+    <member type="way" ref="552713974" role=""/>
+    <member type="way" ref="552713975" role=""/>
+    <member type="way" ref="547930052" role=""/>
+    <member type="way" ref="552713959" role=""/>
+    <member type="way" ref="458718965" role=""/>
+    <member type="way" ref="552713964" role=""/>
+    <member type="way" ref="552080449" role=""/>
+    <member type="way" ref="552713966" role=""/>
+    <member type="way" ref="458718972" role=""/>
+    <member type="way" ref="458718969" role=""/>
+    <member type="way" ref="549334829" role=""/>
+    <tag k="name" v="Kashar Unazore"/>
+    <tag k="network" v="L3"/>
+    <tag k="operator" v="Bashkia Tirane"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="L3"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="7890190" version="1" timestamp="2018-01-10T11:57:36Z" changeset="55319934" uid="3407581" user="diskmanti">
+    <member type="relation" ref="7888500" role=""/>
+    <member type="relation" ref="7888583" role=""/>
+    <member type="relation" ref="7886310" role=""/>
+    <tag k="colour" v="#A565CC"/>
+    <tag k="name" v="Kashar"/>
+    <tag k="network" v="L3"/>
+    <tag k="operator" v="Bashkia Tirane"/>
+    <tag k="ref" v="L3"/>
+    <tag k="route_master" v="bus"/>
+    <tag k="type" v="route_master"/>
+  </relation>
+  <relation id="7892719" version="5" timestamp="2018-04-11T08:44:15Z" changeset="57996257" uid="712336" user="DenisJu">
+    <member type="node" ref="5333387626" role="platform"/>
+    <member type="node" ref="5333387625" role="stop"/>
+    <member type="node" ref="5333387624" role="platform"/>
+    <member type="node" ref="5333387623" role="stop"/>
+    <member type="node" ref="5333387622" role="platform"/>
+    <member type="node" ref="5333387621" role="stop"/>
+    <member type="node" ref="5333386820" role="platform"/>
+    <member type="node" ref="5333386819" role="stop"/>
+    <member type="node" ref="5333386818" role="platform"/>
+    <member type="node" ref="5333386817" role="stop"/>
+    <member type="node" ref="5333386816" role="platform"/>
+    <member type="node" ref="5333386815" role="stop"/>
+    <member type="node" ref="5333386814" role="platform"/>
+    <member type="node" ref="5333386813" role="stop"/>
+    <member type="node" ref="5333386812" role="platform"/>
+    <member type="node" ref="5333386811" role="stop"/>
+    <member type="node" ref="4643854394" role="platform"/>
+    <member type="node" ref="5333386810" role="stop"/>
+    <member type="node" ref="5329339853" role="platform"/>
+    <member type="node" ref="5329339852" role="stop"/>
+    <member type="node" ref="5297635252" role="stop"/>
+    <member type="node" ref="4169403691" role="platform"/>
+    <member type="node" ref="5297635250" role="stop"/>
+    <member type="node" ref="5297635251" role="platform"/>
+    <member type="node" ref="5297635249" role="stop"/>
+    <member type="node" ref="4643851690" role="platform"/>
+    <member type="node" ref="4527220389" role="platform"/>
+    <member type="node" ref="5329339851" role="stop"/>
+    <member type="way" ref="109285566" role=""/>
+    <member type="way" ref="552393826" role=""/>
+    <member type="way" ref="109285557" role=""/>
+    <member type="way" ref="464763435" role=""/>
+    <member type="way" ref="204531932" role=""/>
+    <member type="way" ref="172203769" role=""/>
+    <member type="way" ref="172203771" role=""/>
+    <member type="way" ref="531079993" role=""/>
+    <member type="way" ref="37232409" role=""/>
+    <member type="way" ref="37232467" role=""/>
+    <member type="way" ref="552152844" role=""/>
+    <member type="way" ref="173615120" role=""/>
+    <member type="way" ref="37232391" role=""/>
+    <member type="way" ref="126532250" role=""/>
+    <member type="way" ref="552152847" role=""/>
+    <member type="way" ref="578772794" role=""/>
+    <member type="way" ref="578772793" role=""/>
+    <member type="way" ref="173615121" role=""/>
+    <member type="way" ref="37232289" role=""/>
+    <member type="way" ref="513812260" role=""/>
+    <member type="way" ref="458174342" role=""/>
+    <member type="way" ref="210192829" role=""/>
+    <member type="way" ref="548340176" role=""/>
+    <member type="way" ref="552398386" role=""/>
+    <member type="way" ref="457941828" role=""/>
+    <member type="way" ref="513846606" role=""/>
+    <member type="way" ref="135174654" role=""/>
+    <member type="way" ref="513846603" role=""/>
+    <member type="way" ref="548351120" role=""/>
+    <member type="way" ref="457941829" role=""/>
+    <member type="way" ref="549166140" role=""/>
+    <member type="way" ref="548351119" role=""/>
+    <member type="way" ref="210192830" role=""/>
+    <member type="way" ref="551904499" role=""/>
+    <member type="way" ref="450756810" role=""/>
+    <member type="way" ref="458859576" role=""/>
+    <member type="way" ref="3192407" role=""/>
+    <member type="way" ref="469773341" role=""/>
+    <member type="way" ref="458516474" role=""/>
+    <member type="way" ref="458516473" role=""/>
+    <member type="way" ref="457933451" role=""/>
+    <member type="way" ref="551660469" role=""/>
+    <member type="way" ref="458859561" role=""/>
+    <member type="way" ref="173434427" role=""/>
+    <member type="way" ref="518775685" role=""/>
+    <member type="way" ref="229347215" role=""/>
+    <member type="way" ref="369730253" role=""/>
+    <member type="way" ref="469955585" role=""/>
+    <tag k="name" v="City Park - Megatek - QTU - Qendër"/>
+    <tag k="network" v="L4"/>
+    <tag k="public_transport:version" v="2"/>
+    <tag k="ref" v="L4"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="7892733" version="1" timestamp="2018-01-11T14:59:12Z" changeset="55353638" uid="3407581" user="diskmanti">
+    <member type="relation" ref="7890488" role=""/>
+    <member type="relation" ref="7892719" role=""/>
+    <tag k="colour" v="#6377CA"/>
+    <tag k="name" v="Qendër - QTU - Megatek - Citypark"/>
+    <tag k="network" v="L4"/>
+    <tag k="operator" v="Bashkia Tirane"/>
+    <tag k="route_master" v="bus"/>
+    <tag k="type" v="route_master"/>
+  </relation>
+
+</osm>
